@@ -220,7 +220,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                 image: AssetImage("images/image2.jpg"),
                                 fit: BoxFit.fill)),
                         child: Center(
-                          child: Container(
+                          child: Container( 
                             width: 40,
                             height: 40,
                             decoration: BoxDecoration(
